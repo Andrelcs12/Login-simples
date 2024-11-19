@@ -1,2 +1,2 @@
 # Login-simples
-essa é uma página de login simples, com elementos básicos de formulário,. 
+essa é uma página de login, com elementos de formulário.
